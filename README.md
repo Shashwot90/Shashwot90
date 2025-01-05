@@ -4,7 +4,7 @@ Hello! I am a recent graduate with a degree in Computer Science and currently an
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/shashwot_pradhan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shashwot-pradhan-81531b22a/) 
-[![HuggingFace](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://huggingface.co/Makima57) 
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FCD535?style=for-the-badge&logo=binance&logoColor=white)](https://huggingface.co/Makima57) 
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/shashwotpradhan) 
 
 # 💻 Tech Stack:
