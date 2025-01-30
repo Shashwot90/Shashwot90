@@ -13,11 +13,6 @@ Hello! I am a recent graduate with a degree in Computer Science and currently an
 ![](https://github-readme-stats.vercel.app/api?username=Shashwot90&theme=outrun&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Shashwot90&theme=outrun&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwot90&theme=outrun&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shashwot90&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shashwot90&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwot90&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
- 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shashwot90&icon=0&color=0)](https://visitcount.itsvg.in)
